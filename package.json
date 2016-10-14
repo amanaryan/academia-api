@@ -1,0 +1,27 @@
+{
+  "name": "academia-api",
+  "version": "1.0.0",
+  "description": "Unofficial Academia API",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "AMAN ARYAN",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "mongodb": "^2.2.10",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "request": "^2.75.0",
+    "uuid": "^2.0.3",
+    "winston": "^2.2.0"
+  }
+}
